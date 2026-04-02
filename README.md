@@ -11,3 +11,12 @@ An example react application with React/Typescript and Vite.
 ```
     npm run test
 ```
+
+## Technologies used
+
+- React
+- React Query
+- Vitest with React testing Library
+- Playwright
+- Antd
+- MSW
