@@ -14,7 +14,7 @@ An example react application with React/Typescript and Vite.
 
 ## Technologies used
 
-- React
+- React with Vite
 - React Query
 - Vitest with React testing Library
 - Playwright
